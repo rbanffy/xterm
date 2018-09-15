@@ -1,0 +1,8 @@
+The NEWS file was generated from xterm.log.html, which serves as the changelog
+for xterm.
+--------------------------------------------------------------------------------
+                            Patch #335 - 2018/08/14
+
+     * add  colorInnerBorder  resource  to  make  a change from patch #334
+       configurable (reports by H Merijn Brand, Gabriele Balducci).
+
